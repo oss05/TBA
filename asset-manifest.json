@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TBA/static/css/main.8eb65855.chunk.css",
+    "main.js": "/TBA/static/js/main.49f70d95.chunk.js",
+    "main.js.map": "/TBA/static/js/main.49f70d95.chunk.js.map",
+    "runtime~main.js": "/TBA/static/js/runtime~main.52b568b3.js",
+    "runtime~main.js.map": "/TBA/static/js/runtime~main.52b568b3.js.map",
+    "static/css/2.266e55a5.chunk.css": "/TBA/static/css/2.266e55a5.chunk.css",
+    "static/js/2.9089bbae.chunk.js": "/TBA/static/js/2.9089bbae.chunk.js",
+    "static/js/2.9089bbae.chunk.js.map": "/TBA/static/js/2.9089bbae.chunk.js.map",
+    "index.html": "/TBA/index.html",
+    "precache-manifest.c4c00bd37c4342342ea3a0f733e9d1dd.js": "/TBA/precache-manifest.c4c00bd37c4342342ea3a0f733e9d1dd.js",
+    "service-worker.js": "/TBA/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/TBA/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.8eb65855.chunk.css.map": "/TBA/static/css/main.8eb65855.chunk.css.map",
+    "static/media/chambers.png": "/TBA/static/media/chambers.2eb3c329.png",
+    "static/media/imgOficinas.png": "/TBA/static/media/imgOficinas.cd7d3bc1.png",
+    "static/media/logoTuranzas.png": "/TBA/static/media/logoTuranzas.76ce3e1a.png"
+  }
+}
