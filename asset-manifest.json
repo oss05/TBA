@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/TBA/static/css/main.94746c4e.chunk.css",
-    "main.js": "/TBA/static/js/main.d77d3a06.chunk.js",
-    "main.js.map": "/TBA/static/js/main.d77d3a06.chunk.js.map",
+    "main.css": "/TBA/static/css/main.0aed2f45.chunk.css",
+    "main.js": "/TBA/static/js/main.4b1bdfa0.chunk.js",
+    "main.js.map": "/TBA/static/js/main.4b1bdfa0.chunk.js.map",
     "runtime~main.js": "/TBA/static/js/runtime~main.52b568b3.js",
     "runtime~main.js.map": "/TBA/static/js/runtime~main.52b568b3.js.map",
     "static/css/2.266e55a5.chunk.css": "/TBA/static/css/2.266e55a5.chunk.css",
-    "static/js/2.742d94e3.chunk.js": "/TBA/static/js/2.742d94e3.chunk.js",
-    "static/js/2.742d94e3.chunk.js.map": "/TBA/static/js/2.742d94e3.chunk.js.map",
+    "static/js/2.ff3a7e45.chunk.js": "/TBA/static/js/2.ff3a7e45.chunk.js",
+    "static/js/2.ff3a7e45.chunk.js.map": "/TBA/static/js/2.ff3a7e45.chunk.js.map",
     "index.html": "/TBA/index.html",
-    "precache-manifest.67b50747d52286210a7597f9c17d1783.js": "/TBA/precache-manifest.67b50747d52286210a7597f9c17d1783.js",
+    "precache-manifest.5a75467948863ee847357c528cb8a9a8.js": "/TBA/precache-manifest.5a75467948863ee847357c528cb8a9a8.js",
     "service-worker.js": "/TBA/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/TBA/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.94746c4e.chunk.css.map": "/TBA/static/css/main.94746c4e.chunk.css.map",
+    "static/css/main.0aed2f45.chunk.css.map": "/TBA/static/css/main.0aed2f45.chunk.css.map",
     "static/media/chambers.png": "/TBA/static/media/chambers.2eb3c329.png",
+    "static/media/dos.pdf": "/TBA/static/media/dos.f63858b5.pdf",
     "static/media/imgOficinas.png": "/TBA/static/media/imgOficinas.cd7d3bc1.png",
     "static/media/logoTuranzas.png": "/TBA/static/media/logoTuranzas.76ce3e1a.png"
   }
