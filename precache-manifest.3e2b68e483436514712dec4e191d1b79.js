@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01d0a7a6ba55096a7f1bddf649867694",
+    "revision": "eb57d3ceccb099563e01a8a95f4f7b30",
     "url": "/TBA/index.html"
   },
   {
-    "revision": "09aabdc6f1dfc09c564e",
+    "revision": "85c30e4d496b0720627c",
     "url": "/TBA/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "18f58f4fdccd5a90d6cc",
-    "url": "/TBA/static/css/main.97d2a79e.chunk.css"
+    "revision": "a1c5b87f58a61f0de8aa",
+    "url": "/TBA/static/css/main.acc3639b.chunk.css"
   },
   {
-    "revision": "09aabdc6f1dfc09c564e",
-    "url": "/TBA/static/js/2.c790bbe9.chunk.js"
+    "revision": "85c30e4d496b0720627c",
+    "url": "/TBA/static/js/2.044797df.chunk.js"
   },
   {
-    "revision": "18f58f4fdccd5a90d6cc",
-    "url": "/TBA/static/js/main.4b698a58.chunk.js"
+    "revision": "a1c5b87f58a61f0de8aa",
+    "url": "/TBA/static/js/main.4cf9a824.chunk.js"
   },
   {
     "revision": "42b1e7a03c633b559079",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "27b12afabc52980bbd70102661838311",
     "url": "/TBA/static/media/04-2019.27b12afa.png"
+  },
+  {
+    "revision": "cc578b38c172add4cede15fe46b15a9c",
+    "url": "/TBA/static/media/LogoTBA.cc578b38.png"
   },
   {
     "revision": "8334e45d17ee595ee8c63f0e1799ca82",
@@ -50,9 +54,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6e2ac1b370f35d889b5d2ea7b7048782",
     "url": "/TBA/static/media/logoHome.6e2ac1b3.png"
-  },
-  {
-    "revision": "76ce3e1a88c12f127a34856f63f958b7",
-    "url": "/TBA/static/media/logoTuranzas.76ce3e1a.png"
   }
 ]);
