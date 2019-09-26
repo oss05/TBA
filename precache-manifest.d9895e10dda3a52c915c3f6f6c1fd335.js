@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61628010aac8f7c18e3f070c862667f2",
+    "revision": "9b7dab27c1507713c0dd111fe7bb849e",
     "url": "/TBA/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TBA/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "952d608e59dab5d5ea38",
-    "url": "/TBA/static/css/main.e7efff6b.chunk.css"
+    "revision": "1ad1b28562e210621890",
+    "url": "/TBA/static/css/main.080daa6c.chunk.css"
   },
   {
     "revision": "f228df97f932bab79c4e",
     "url": "/TBA/static/js/2.5fd00508.chunk.js"
   },
   {
-    "revision": "952d608e59dab5d5ea38",
+    "revision": "1ad1b28562e210621890",
     "url": "/TBA/static/js/main.7e2f89a7.chunk.js"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TBA/static/media/LogoTBA.cc578b38.png"
   },
   {
-    "revision": "3b00a7b05b72cc903e351398af3cd5a3",
-    "url": "/TBA/static/media/Univers-light-normal.3b00a7b0.ttf"
+    "revision": "dbae71bf279da3ca5083a568918131b6",
+    "url": "/TBA/static/media/UniversLTStd.dbae71bf.otf"
   },
   {
     "revision": "8334e45d17ee595ee8c63f0e1799ca82",
