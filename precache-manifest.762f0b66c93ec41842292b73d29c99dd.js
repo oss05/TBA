@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b7dab27c1507713c0dd111fe7bb849e",
+    "revision": "df02927f74f334487e7e9f9cfc86efe9",
     "url": "/TBA/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TBA/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "1ad1b28562e210621890",
-    "url": "/TBA/static/css/main.080daa6c.chunk.css"
+    "revision": "00d37a89350fc97d3036",
+    "url": "/TBA/static/css/main.d55b2fa8.chunk.css"
   },
   {
     "revision": "f228df97f932bab79c4e",
     "url": "/TBA/static/js/2.5fd00508.chunk.js"
   },
   {
-    "revision": "1ad1b28562e210621890",
-    "url": "/TBA/static/js/main.7e2f89a7.chunk.js"
+    "revision": "00d37a89350fc97d3036",
+    "url": "/TBA/static/js/main.98342729.chunk.js"
   },
   {
     "revision": "42b1e7a03c633b559079",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TBA/static/media/04-2019.27b12afa.png"
   },
   {
-    "revision": "cc578b38c172add4cede15fe46b15a9c",
-    "url": "/TBA/static/media/LogoTBA.cc578b38.png"
+    "revision": "aff001b45565556d667c11fe85cada0d",
+    "url": "/TBA/static/media/JosefinSans-Regular.aff001b4.ttf"
   },
   {
-    "revision": "dbae71bf279da3ca5083a568918131b6",
-    "url": "/TBA/static/media/UniversLTStd.dbae71bf.otf"
+    "revision": "e13e7291ae95e533c3c79267b22ce1b7",
+    "url": "/TBA/static/media/LogoTBA.e13e7291.png"
   },
   {
     "revision": "8334e45d17ee595ee8c63f0e1799ca82",
