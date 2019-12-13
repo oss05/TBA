@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7daa30e4a96b485dbda5c207c54f0045",
+    "revision": "a83f00c8b6d56ba4c94c398339edc02a",
     "url": "/TBA/index.html"
   },
   {
-    "revision": "a9748da8e8fdff079b67",
+    "revision": "e09a6b76f6e2e0545760",
     "url": "/TBA/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "c0aca4a187ed27c6fe7a",
-    "url": "/TBA/static/css/main.8ab5a602.chunk.css"
+    "revision": "b4c1f2ddbf819316e5e6",
+    "url": "/TBA/static/css/main.6a59835b.chunk.css"
   },
   {
-    "revision": "a9748da8e8fdff079b67",
-    "url": "/TBA/static/js/2.77e91b1e.chunk.js"
+    "revision": "e09a6b76f6e2e0545760",
+    "url": "/TBA/static/js/2.2670073d.chunk.js"
   },
   {
-    "revision": "c0aca4a187ed27c6fe7a",
-    "url": "/TBA/static/js/main.5e253003.chunk.js"
+    "revision": "b4c1f2ddbf819316e5e6",
+    "url": "/TBA/static/js/main.2ffcad80.chunk.js"
   },
   {
     "revision": "42b1e7a03c633b559079",
@@ -36,6 +36,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TBA/static/media/LogoTBA.e13e7291.png"
   },
   {
+    "revision": "c9b10f1723119809407150cd2d4d54f1",
+    "url": "/TBA/static/media/Mesa de trabajo 3.c9b10f17.png"
+  },
+  {
     "revision": "76b735d753de86c6a6bf22b637de1100",
     "url": "/TBA/static/media/carousel2020.76b735d7.png"
   },
@@ -52,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TBA/static/media/logoHome.6e2ac1b3.png"
   },
   {
-    "revision": "7e431639853373b644c1a81bece824d5",
-    "url": "/TBA/static/media/oficinas.7e431639.png"
+    "revision": "93c69097d62ca5ddd2ce3c92048aed08",
+    "url": "/TBA/static/media/oficinas.93c69097.png"
   },
   {
-    "revision": "3111f22663cbee6bc298e4b1b54cfe8a",
-    "url": "/TBA/static/media/panoramica-assets.3111f226.png"
+    "revision": "a6995b8a0c580395c03201469993b495",
+    "url": "/TBA/static/media/panoramica-new.a6995b8a.png"
   },
   {
     "revision": "c450e828707011c8da7f03fd1b5ab148",
